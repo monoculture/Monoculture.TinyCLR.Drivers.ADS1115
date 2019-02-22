@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Monoculture.TinyCLR.Drivers.ADS1115</id>
+    <version>$version$</version>
+    <license type="expression">Apache-2.0</license>
+	<requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <authors>Monoculture</authors>
+    <projectUrl>https://github.com/monoculture/Monoculture.TinyCLR.Drivers.ADS1115</projectUrl>
+    <description>TinyCLR library for the ADS1115 Analog-to-Digital Converter.</description>
+    <copyright>Copyright ©2019 Monoculture</copyright>
+    <tags>TinyCLR TinyCLROS ADS1115</tags>
+  </metadata>
+</package>
